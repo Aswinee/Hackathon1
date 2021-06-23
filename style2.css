@@ -1,0 +1,19 @@
+.ticket-container{
+    background: #e4e1e1;
+    border-radius: 5px;
+    max-width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    display:block;
+    position:relative
+  }
+  .StatusPriority{
+    background: #e4e1e1;
+  }
+  select{
+     background: #e4e1e1;
+  /*    top:50%; */
+  /*   right:0px; */
+  /*    position: absolute; */
+    
+  }
